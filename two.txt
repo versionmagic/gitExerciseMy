@@ -2,3 +2,6 @@ this is for merging;
 from dev into master
 hahhhahhhha;
 this is add new branch for new branch;
+=============================
+hehehehe
+add new things
